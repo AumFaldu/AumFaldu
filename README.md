@@ -2,7 +2,7 @@
 
 ### 🌟 CSE Student at Darshan University | Aspiring Software Developer | Passionate About Innovation and Problem Solving
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AumFaldu&label=Profile views&color=0e75b6&style=flat" alt="AumFaldu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AumFaldu&label=Profile views&color=0e75b6&style=flat" alt="AumFaldu" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AumFaldu" alt="AumFaldu" /></a> </p>
 
