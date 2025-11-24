@@ -8,8 +8,7 @@
 
 - 🔭 I'm currently working on **NEXTJS project**
 
-- 🌱 I'm currently learning **Machine Learning and Deep Learning
-**
+- 🌱 I'm currently learning **Machine Learning and Deep Learning**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
