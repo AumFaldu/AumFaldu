@@ -36,7 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AumFaldu&show_icons=true&locale=en&layout=compact" alt="AumFaldu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AumFaldu&show_icons=true&locale=en" alt="AumFaldu" /></p>
-<br clear="both"/>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AumFaldu" alt="streak stats"/>
 </p>
