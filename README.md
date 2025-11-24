@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumfaldu" alt="aumfaldu" /></a> </p>
 
-- 🌱 I’m currently in **Semester-5**
+- 🌱 I’m currently in **Semester-6**
 
 - 👯 I’m looking to collaborate on **GSoC**
 
