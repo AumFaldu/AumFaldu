@@ -37,8 +37,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AumFaldu&show_icons=true&locale=en" alt="AumFaldu" /></p>
 <br clear="both"/>
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=AumFaldu" alt="AumFaldu" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AumFaldu" alt="streak stats"/>
 </p>
+
 
 
