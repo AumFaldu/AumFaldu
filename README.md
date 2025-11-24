@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AumFaldu" alt="AumFaldu" /></a> </p>
 
-- 🔭 I'm currently working on **NEXTJS project**
+- 🔭 I'm currently working on **NextJS project**
 
 - 🌱 I'm currently learning **Machine Learning and Deep Learning**
 
