@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AumFaldu" alt="AumFaldu" /></a> </p>
 
-- 🔭 I'm currently working on ****
+- 🔭 I'm currently working on **DevOps & Cloud Computing AWS**
 
 - 🌱 I'm currently learning **Natural Language Processing**
 
